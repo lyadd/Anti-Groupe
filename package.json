@@ -1,0 +1,22 @@
+{
+  "name": "lock-groupe",
+  "version": "1.0.0",
+  
+  "dependencies": {
+    "discord.js": "^11.6.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeskk/Anti-Groupe.git"
+  },
+  "author": "lyad#7520 (Rytez)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zeskk/Anti-Groupe/issues"
+  },
+  "homepage": "https://github.com/zeskk/Anti-Groupe#readme"
+}
